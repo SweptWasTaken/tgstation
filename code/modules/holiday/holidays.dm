@@ -99,6 +99,12 @@
 	begin_month = JUNE
 
 /datum/holiday/birthday
+	name = "Astroworld Day"
+	begin_day = 18
+	end_day = 18
+	begin_month = NOVEMBER
+
+/datum/holiday/birthday
 	name = "Birthday of Space Station 13"
 	begin_day = 16
 	begin_month = FEBRUARY
